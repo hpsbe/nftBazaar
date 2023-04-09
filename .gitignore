@@ -47,7 +47,7 @@ typechain-types
 #Hardhat files
 cache
 artifacts
-
+hardhat.config.js
 
 node_modules
 .env
