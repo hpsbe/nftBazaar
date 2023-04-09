@@ -13,7 +13,7 @@ const auth = `Basic ${Buffer.from(`${projectId}:${projectSecretKey}`).toString(
 
 const subdomain = process.env.NEXT_PUBLIC_SUBDOMAIN;
 
-const client = ipfsHttpClient({
+const client = create({
   host: "infura-ipfs.io",
   port: 5001,
   protocol: "https",
