@@ -1,6 +1,6 @@
 Live: https://nft-bazaar-1.vercel.app/
 
-Use polygon mumbai matic for interaction on the polygon-mumbai testnet.
+Use polygon mumbai matic for interaction on the website using the polygon-mumbai testnet.
 
 It is a fully-functioning website (I may add features for signing-up and logging-in in the future. 
 
